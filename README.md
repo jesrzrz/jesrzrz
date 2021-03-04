@@ -4,7 +4,7 @@
 
 My personal sandbox
 
-Skills: Cooking, fall off from my bike
+Skills: Cooking, falling off my bike
 
 
 
