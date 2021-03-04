@@ -14,5 +14,7 @@ Skills: Cooking, falling off my bike
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jesrzrz&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/jesrzrz)  
+![GitHub metrics](https://metrics.lecoq.io/jesrzrz) 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=85l9fh9l19eycyxdnn7gauqx9&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
