@@ -2,9 +2,9 @@
 #### master of nothing    ¯\\_(ツ)_/¯
 ![master of nothing](https://github.com/jesrzrz/jesrzrz/blob/main/github.png?raw=true)
 
-My personals projects sandbox
+My personal sandbox
 
-Skills: Cooking
+Skills: Cooking, fall off from my bike
 
 
 
