@@ -2,7 +2,7 @@
 
 My personal sandbox where I break things and sometimes fix them
 
-<img src="./images/debugging.png" width="300">
+<img src="debugging.png" width="300">
 
 ## 🛠️ Skills
 - Cooking (usually edible)
@@ -10,11 +10,11 @@ My personal sandbox where I break things and sometimes fix them
 - Kafka (when it works)
 - Data (I make it stream)
 
-<img src="./images/kafka.png" width="300">
-
+<img src="kafka.png" width="300">
+<img src="bike.png" width="300">
 ## 📊 My Workflow
 
-<img src="./images/workflow.png" width="500">
+<img src="workflow.png" width="500">
 
 ## 💬 Quote of the day
 _"If it works, don't touch it"_ - Me, 5 minutes before touching it
